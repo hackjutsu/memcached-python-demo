@@ -13,6 +13,7 @@ virtualenv ENV
 
 Install dependencies
 ```bash
+brew install libmemcached
 pip install -r requirements.txt
 ```
 
